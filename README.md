@@ -18,7 +18,7 @@ $ npm test
 ```
 import { sum } from 'lutre'
 ```
-obs: If not work with `import` and show this error
+obs: If not work with `import` and show this error on console
 ```
 (function (exports, require, module, __filename, __dirname) { import {soma} from 'lutre'
                                                               ^^^^^^
