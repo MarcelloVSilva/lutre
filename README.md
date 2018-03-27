@@ -1,8 +1,17 @@
-# lutre - This a simple pack of sum of two number made in typescript.
+# Lutre 
+# This a simple pack of sum of two number made in typescript.
 
 ### Install Lutre
 ```
-$ npm i lutre
+$ npm i lutre 
+```
+> or clone this repo
+```
+$ git clone https://github.com/MarcelloVSilva/lutre.git
+```
+### Mocha Test
+```
+$ npm test
 ```
 
 ### Usage
