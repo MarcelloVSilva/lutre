@@ -7,7 +7,7 @@ $ npm i lutre
 
 ### Usage
 ```
-import { soma } from 'lutre'
+import { sum } from 'lutre'
 ```
 obs: If not work with `import` and show this error
 ```
@@ -34,6 +34,6 @@ If you wanna fork me and edit my code, edit file .ts and compile on terminal wit
 
 ### Compile .ts to .js
 ```
-$ tsc somatoria.ts
+$ tsc sum.ts
 ```
 
