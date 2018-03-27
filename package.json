@@ -1,0 +1,11 @@
+{
+  "name": "lutre",
+  "version": "1.0.4",
+  "description": "",
+  "main": "js/somatoria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcello Silva",
+  "license": "ISC"
+}
