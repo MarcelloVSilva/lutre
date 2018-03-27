@@ -1,5 +1,5 @@
 # Lutre 
-# This a simple pack of sum of two number made in typescript.
+## This a simple pack of sum of two number made in typescript.
 
 ### Install Lutre
 ```
