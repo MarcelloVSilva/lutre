@@ -1,8 +1,8 @@
 {
   "name": "lutre",
-  "version": "1.0.4",
-  "description": "",
-  "main": "js/somatoria.js",
+  "version": "1.0.5",
+  "description": "This a simple pack of sum of two number made in typescript.",
+  "main": "js/sum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
