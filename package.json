@@ -1,6 +1,6 @@
 {
   "name": "lutre",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This a simple pack of sum of two number made in typescript.",
   "main": "js/sum.js",
   "scripts": {
