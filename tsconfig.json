@@ -5,6 +5,7 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "sourceMap": true,
+        "declaration": true,
         // "types" : ["ts"],
         "outDir": "./js"
     },

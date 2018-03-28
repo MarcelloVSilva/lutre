@@ -1,8 +1,9 @@
 {
   "name": "lutre",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This a simple pack of sum of two number made in typescript.",
   "main": "js/sum.js",
+  "types": "sum.ts",
   "scripts": {
     "test": "mocha"
   },
