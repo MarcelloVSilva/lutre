@@ -1,6 +1,8 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 function sum(a, b) {
+    if (a < 0)
+        throw "err";
     return a + b;
 }
 exports.sum = sum;

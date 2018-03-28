@@ -1,11 +1,18 @@
 {
     "compilerOptions": {
+        "target": "es6",
         "module": "commonjs",
         "noImplicitAny": true,
         "removeComments": true,
         "sourceMap": true,
         "declaration": true,
         // "types" : ["ts"],
-        "outDir": "./js"
+        "outDir": "./dist",
+        "lib": [
+            "es2017" 
+        ]
     },
+    "include": [
+        "./src",
+    ],
 }

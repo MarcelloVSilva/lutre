@@ -1,17 +1,24 @@
 {
   "name": "lutre",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "This a simple pack of sum of two number made in typescript.",
-  "main": "js/sum.js",
-  "types": "js/sum.d.ts",
+  "main": "dist/sum.js",
+  "types": "dist/sum.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "mocha"
+    "test": "mocha dist",
+    "test-with-coverage": "nyc --reporter=text --reporter=html mocha dist"
   },
   "author": "Marcello Silva",
   "license": "ISC",
   "devDependencies": {
+    "@types/chai": "^4.1.2",
+    "@types/mocha": "^5.0.0",
+    "chai": "^4.1.2",
     "mocha": "^5.0.5",
-    "typescript": "^2.8.1"
+    "nyc": "^11.6.0",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.8.1",
+    "typings": "^2.1.1"
   }
 }
