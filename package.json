@@ -1,10 +1,11 @@
 {
   "name": "lutre",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "This a simple pack of sum of two number made in typescript.",
   "main": "js/sum.js",
-  "types": "sum.ts",
+  "types": "js/sum.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "mocha"
   },
   "author": "Marcello Silva",
